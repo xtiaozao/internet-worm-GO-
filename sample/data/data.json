@@ -1,0 +1,22 @@
+[
+	{
+		"site" : "sina",
+		"link" : "http://rss.sina.com.cn/roll/sports/hot_roll.xml",
+		"type" : "rss"
+	},
+	{
+		"site" : "people",
+		"link" : "http://www.people.com.cn/rss/sports.xml",
+		"type" : "rss"
+	},
+	{
+		"site" : "xinhuanet",
+		"link" : "http://www.xinhuanet.com/sports/news_sports.xml",
+		"type" : "rss"
+	},
+	{
+		"site" : "sina",
+		"link" : "http://sports.sina.com.cn/g/laliga/",
+		"type" : "html"
+	}
+]
